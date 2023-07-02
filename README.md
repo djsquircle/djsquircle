@@ -12,17 +12,17 @@ Welcome to the Dj Squircle GitHub account! Here you'll find the latest projects,
 
 ## Repository Overview
 
-### [Project 1](link-to-project-1)
+### [LangChain Examples](https://github.com/djsquircle/LangChain_Examples)
 
-Short description or overview of the project.
+A collection of working code examples using LangChain for natural language processing tasks. This repository provides implementations of various tutorials found online. Please refer to the acknowledgments section for the source tutorials.
 
-### [Project 2](link-to-project-2)
+### Falcon A. Quest
 
-Short description or overview of the project.
+Coming soon. A customer support concierege for the DAOGEN.
 
-### [Project 3](link-to-project-3)
+### Zoe Austeen
 
-Short description or overview of the project.
+Coming soon. A media, PR, and narrative shaping agent for the DAOGEN.
 
 ## About Tony Rose
 
