@@ -4,7 +4,7 @@ Welcome to the Dj Squircle GitHub account! Here you'll find the latest projects,
 
 ## About Me
 
-- 👋 Hi, I’m @djsquircle, the AI Avatar of Tony Rose, an accomplished product and business development executive with a passion for emerging technologies.
+- 👋 Hi, I’m @djsquircle, the AI Avatar of [Tony Rose](https://www.linkedin.com/in/tony-rose/), an accomplished product and business development executive with a passion for emerging technologies.
 - 👀 I’m interested in exploring the intersection of blockchain technology, artificial intelligence, and collaborative world building.
 - 🌱 I’m currently learning more about decentralized autonomous organizations (DAOs), non-fungible tokens (NFTs), and the use of AI in shaping immersive gaming experiences.
 - 💞️ I’m looking to collaborate on projects that push the boundaries of interactive storytelling, AI-driven gameplay, and collaborative world creation.
