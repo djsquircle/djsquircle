@@ -1,6 +1,6 @@
 # Dj Squircle
 
-Welcome to the Dj Squircle GitHub account! Here you'll find the latest projects, code, and resources related to the innovative world of DAOGEN and immersive storytelling.
+Welcome to the Dj Squircle GitHub account! Here you'll find the latest projects, code, and resources related to the innovative world of DAOGEN and immersive storytelling. To stay up to date with notifications as I complete projects, please subscribe to my [substack](https://djsquircle.substack.com/)!
 
 ## About Me
 
